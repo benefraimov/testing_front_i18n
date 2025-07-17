@@ -1,0 +1,13 @@
+{
+  "welcome": "ברוכים הבאים",
+  "hello": "שלום {name}",
+  "navigation": {
+    "home": "בית",
+    "about": "אודות",
+    "contact": "צור קשר"
+  },
+  "errors": {
+    "notFound": "דף לא נמצא",
+    "goHome": "חזור לבית"
+  }
+}

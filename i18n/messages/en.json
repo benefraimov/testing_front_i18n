@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello {name}",
+  "navigation": {
+    "home": "Home",
+    "about": "About", 
+    "contact": "Contact"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "goHome": "Go Home"
+  }
+}
